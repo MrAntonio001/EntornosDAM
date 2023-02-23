@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-<xml>
+<rss version="0.92">
 	<header>
 		<title>Esto es una prueba de validacion de podcast</title>
 		<description>Esperemos que funcione</descrption>
@@ -22,4 +21,4 @@
 		<title>Esto es una sesion</title>
 		<description>Es del dia 9</description>
 	</item>
-</xml>
+</rss>
