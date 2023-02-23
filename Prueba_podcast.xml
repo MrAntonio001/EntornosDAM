@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<header>
+		<title>Esto es una prueba de validacion de podcast</title>
+		<description>Esperemos que funcione</descrption>
+	</header>
+	<item>
+		<title>Esto es una sesion</title>
+		<descripcion>Es del dia 0</descripcion>
+	</item>
+	<item>
+		<title>Esto es una sesion en grupo</title>
+		<description>Es del dia 2</description>
+	</item>
+	<item>
+		<title>Esto es una sesion musical</title>
+		<description>Es del dia 5</description>
+		<link>Esto seria un link de descarga de musica</link>
+	</item>
+	<item>
+		<title>Esto es una sesion</title>
+		<description>Es del dia 9</description>
+	</item>
+</xml>
