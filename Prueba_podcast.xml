@@ -2,10 +2,8 @@
 <xml>
 	<rss version="2.0">
 		<channel>
-			<header>
-				<title>Esto es una prueba de validacion de podcast</title>
-				<description>Esperemos que funcione</descrption>
-			</header>
+			<title>Esto es una prueba de validacion de podcast</title>
+			<description>Esperemos que funcione</descrption>
 			<item>
 				<title>Esto es una sesion</title>
 				<descripcion>Es del dia 0</descripcion>
